@@ -1,17 +1,17 @@
 <h2 align="center">Hi 👋, I'm Akhilesh Nadgiri !</h2>
 <h3 align="center">A Cloud-Native & DevOps enthusiast 💭</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<p align="left"> <a href="https://twitter.com/akhil3shh" target="blank"><img src="https://img.shields.io/twitter/follow/akhil3shh?logo=twitter&style=for-the-badge" alt="akhil3shh" /></a> </p>
 
-- 🌱 I’m currently learning **Terraform**
 
-- 💬 Ask me about **GCP, AWS, Azure, DevOps tools, etc.**
+- 🌱 I’m currently learning **Terraform !**
 
-- 📫 Reach me at **akhileshnadgiri@gmail.com**
+- 💬 Ask me about **GCP, AWS, Azure, DevOps, etc.**
 
-- 📄 Resume link: [https://drive.google.com/file/d/1nsSJgsg1jW1dljLSYGQt50kXaNgle_Kq/view?usp=drive_link](https://drive.google.com/file/d/1nsSJgsg1jW1dljLSYGQt50kXaNgle_Kq/view?usp=drive_link)
+- 📫 Reach me at: **akhileshnadgiri@gmail.com**
 
-- ⚡ Fun fact: **I think I am funny:)**
+- 📄 Resume link: [https://shorturl.at/zOWZ5](https://shorturl.at/zOWZ5)
+
+- ⚡ Fun fact: **I think I am funny :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
