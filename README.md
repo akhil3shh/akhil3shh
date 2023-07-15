@@ -8,7 +8,7 @@
 
 - 📫 Reach me at: **akhileshnadgiri@gmail.com**
 
-- 📄 Resume link: [https://shorturl.at/abek8](https://shorturl.at/abek8)
+- 📄 Resume link: [https://shorturl.at/kqBY4](https://shorturl.at/kqBY4)
 
 - ⚡ Fun fact: **I think I am funny :)**
 
