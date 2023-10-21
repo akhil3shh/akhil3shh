@@ -2,21 +2,21 @@
 <h3 align="center">A Cloud-Native & DevOps enthusiast 💭</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 🌱 I’m currently learning **Terraform !**
+- 🌱 I’m currently learning **Terraform!**
 
-- 💬 Ask me about **GCP, AWS, Azure, DevOps, etc.**
+- 💬 Ask me about **GCP, AWS, DevOps, etc.**
 
 - 📫 Reach me at: **akhileshnadgiri@gmail.com**
 
-- 📄 Resume link: [https://shorturl.at/kqBY4](https://shorturl.at/kqBY4)
+- 📄 Resume link: [https://shorturl.at/ehuI2](https://shorturl.at/ehuI2)
 
-- ⚡ Fun fact: **I think I am funny :)**
+- ⚡ Fun fact: **I like tinkering with system infrastructure!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akhil3shh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akhil3shh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akhilesh-nadgiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhilesh-nadgiri" height="30" width="40" /></a>
-<a href="https://instagram.com/akhileshhh.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhileshhh.exe" height="30" width="40" /></a>
+<a href="https://instagram.com/akhil3shhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhileshhh.exe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
