@@ -8,7 +8,7 @@
 
 - 📫 Reach me at: **akhileshnadgiri@gmail.com**
 
-- 📄 Resume link: [https://shorturl.at/ehuI2](https://shorturl.at/ehuI2)
+- 📄 Resume link: [View my resume here!](https://shorturl.at/fiuYZ)
 
 - ⚡ Fun fact: **I like tinkering with system infrastructure!**
 
