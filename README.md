@@ -2,13 +2,11 @@
 <h3 align="center">A Cloud-Native & DevOps enthusiast 💭</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 🌱 I’m currently learning **Terraform!**
+- 🌱 I’m currently learning **ELK stack!**
 
 - 💬 Ask me about **GCP, AWS, DevOps, etc.**
 
 - 📫 Reach me at: **akhileshnadgiri@gmail.com**
-
-- 📄 Resume link: [View my resume here!](https://shorturl.at/fiuYZ)
 
 - ⚡ Fun fact: **I like tinkering with system infrastructure!**
 
