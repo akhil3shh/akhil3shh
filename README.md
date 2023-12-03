@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **GCP, AWS, DevOps, etc.**
 
-- 📫 Reach me at: **akhileshnadgiri@gmail.com**
-
 - ⚡ Fun fact: **I like tinkering with system infrastructure!**
 
 <h3 align="left">Connect with me:</h3>
