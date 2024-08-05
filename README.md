@@ -2,7 +2,6 @@
 <h2 align="center">A Cloud-Native & DevOps enthusiast🚀 </h2>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5mYjV6NWYxN2VvM3oxcm04Z3FjcjllNWZzdGRyMjdmbjBqOHVrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vbasUpb65x3hIYfPu2/giphy.gif">
 
-<h2 align="center"> </h2>
     
 <h4 align="center">👾  Experienced in GCP, AWS & DevOps </h4>
 
