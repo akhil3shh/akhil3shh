@@ -1,13 +1,21 @@
-<h1 align="center">Hey👋 I'm Akhilesh!</h1>
-<h2 align="center">A Cloud-Native & DevOps enthusiast🚀 </h2>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5mYjV6NWYxN2VvM3oxcm04Z3FjcjllNWZzdGRyMjdmbjBqOHVrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vbasUpb65x3hIYfPu2/giphy.gif">
-
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5mYjV6NWYxN2VvM3oxcm04Z3FjcjllNWZzdGRyMjdmbjBqOHVrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vbasUpb65x3hIYfPu2/giphy.gif" align="center" style="width: 100%"/>
+</div>
     
-<h4 align="center">👾  Experienced in GCP, AWS & DevOps </h4>
+# <div align="center">Hey! I'm Akhilesh, a full-time SRE-DevOps @ IntegriChain 🚀</div>  
+  
 
-<h4 align="center">💢  I’m currently learning Kubernetes 💢 </h4>
+- 💻 I’m currently working on AWS and Terraform  
+  
 
-<h4 align="center">🤪  I like tinkering with system infrastructure ❗</h4>
+- 🤯 I’m exploring Kubernetes and observability
+  
+
+- ❓ Ask me anything related to Cloud & DevOps methodologies  
+  
+
+- 😆 Fun fact: I like tinkering with system infrastructure  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
